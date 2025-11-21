@@ -4,6 +4,8 @@ This repository contains my work on various Kaggle competitions, showcasing diff
 
 ## 📊 Active Competitions
 
+## Previous Competitions
+
 ### [Predict Future Sales](./Predict%20Sale%20Comp/)
 **Competition:** [Competitive Data Science: Predict Future Sales](https://www.kaggle.com/competitions/competitive-data-science-predict-future-sales)
 
